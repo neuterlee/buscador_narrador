@@ -9,16 +9,16 @@ Este repositorio contiene un conjunto de herramientas desarrolladas en Python (u
 
 ## 📂 Estructura del Repositorio
 buscador_narrador/
-├── creador_historias/
-│   ├── input_folder/       # <- Coloca aquí los CSV de entrada para crear historias
-│   ├── output/             # <- Aquí se guardan los CSV/HTML generados por creador_historias y tets_historias
-│   ├── creador_historias.ipynb # Script principal para anonimizar y crear una historia por caso
-│   └── tets_historias.ipynb    # Script para generar MÚLTIPLES variaciones de historias por caso y visualización
-├── busqueda_embebidos/
-│   ├── data/               # <- Coloca aquí el CSV principal para la búsqueda y se guardan cachés
-│   ├── output/             # <- Aquí se guardan los resultados de búsqueda (HTML/CSV)
-│   └── busqueda_embebidos.ipynb # Script para buscar casos por similitud semántica
-└── readme.md               # Este archivo
+  creador_historias/
+    input_folder/       # <- Coloca aquí los CSV de entrada para crear historias
+    output/             # <- Aquí se guardan los CSV/HTML generados por creador_historias y tets_historias
+    creador_historias.ipynb # Script principal para anonimizar y crear una historia por caso
+    tets_historias.ipynb    # Script para generar MÚLTIPLES variaciones de historias por caso y visualización
+  busqueda_embebidos/
+    data/               # <- Coloca aquí el CSV principal para la búsqueda y se guardan cachés
+    output/             # <- Aquí se guardan los resultados de búsqueda (HTML/CSV)
+    busqueda_embebidos.ipynb # Script para buscar casos por similitud semántica
+  README.md               # Este archivo
 
 ## 🛠️ Componentes Principales
 
