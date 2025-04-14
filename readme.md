@@ -59,7 +59,3 @@ Este script permite buscar similitudes en una base de datos de descripciones de 
 - **Privacidad**: Ambos scripts están diseñados para manejar datos sensibles. Asegúrate de cumplir con las normativas de privacidad aplicables.
 - **Clave de API**: Reemplaza la clave de API en `creador_historias.ipynb` con una válida para DeepSeek.
 - **GPU**: Si usas `busqueda_embebidos.py`, asegúrate de tener una GPU disponible para acelerar la generación de embeddings.
-
----
-
-## **Estructura del Proyecto**
