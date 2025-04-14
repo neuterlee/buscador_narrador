@@ -8,6 +8,7 @@ Este repositorio contiene un conjunto de herramientas desarrolladas en Python (u
 ---
 
 ## 📂 Estructura del Repositorio
+```text
 buscador_narrador/
   creador_historias/
     input_folder/       # <- Coloca aquí los CSV de entrada para crear historias
@@ -18,7 +19,8 @@ buscador_narrador/
     data/               # <- Coloca aquí el CSV principal para la búsqueda y se guardan cachés
     output/             # <- Aquí se guardan los resultados de búsqueda (HTML/CSV)
     busqueda_embebidos.ipynb # Script para buscar casos por similitud semántica
-  README.md               # Este archivo
+  readme.md               # Este archivo
+```
 
 ## 🛠️ Componentes Principales
 
