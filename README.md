@@ -20,8 +20,6 @@ buscador_narrador/
 │   └── busqueda_embebidos.ipynb # Script para buscar casos por similitud semántica
 └── readme.md               # Este archivo
 
----
-
 ## 🛠️ Componentes Principales
 
 ### 1. Creador de Historias (`creador_historias/`)
